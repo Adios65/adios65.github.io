@@ -187,7 +187,7 @@ input, select, textarea {
 			margin-top: -0.25rem;
 			text-align: center;
 		}
-
+/* 
 		#intro + #header {
 			margin-top: -20rem;
 		}
@@ -199,7 +199,7 @@ input, select, textarea {
 				transform: translateY(2rem);
 				opacity: 0;
 				visibility: hidden;
-			}
+			} */
 
 /* 		#intro.hidden {
 			pointer-events: none;
