@@ -43,3 +43,7 @@
     cursor: pointer;
     transition: 0.3s; */
 }
+
+#description p, li {
+    font-size: 0.9rem;
+}
